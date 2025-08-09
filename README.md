@@ -1,4 +1,4 @@
-````markdown
+
 # Blog-Project
 
 A simple blog web application built with Django.
@@ -51,16 +51,7 @@ A simple blog web application built with Django.
 
    Go to [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to see the blog in action.
 
-## Usage
-
-* Register an account or log in to create and manage your blog posts.
-* Navigate through posts on the homepage.
-* Add comments if enabled.
-
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements!
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the sameer9860 License. See the [LICENSE](LICENSE) file for details.
